@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Core.Backtester/Core.Backtester.csproj" />
+    <Project Path="src/Core.Data/Core.Data.csproj" />
+    <Project Path="src/Core.Export/Core.Export.csproj" />
+    <Project Path="src/Core.Indicators/Core.Indicators.csproj" />
+    <Project Path="src/Core.ML/Core.ML.csproj" />
+    <Project Path="src/Core.Reporting/Core.Reporting.csproj" />
+    <Project Path="src/Core.SearchEngine/Core.SearchEngine.csproj" />
+    <Project Path="src/Research.Cli/Research.Cli.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Core.Tests/Core.Tests.csproj" />
+  </Folder>
+</Solution>
